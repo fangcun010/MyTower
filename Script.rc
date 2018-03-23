@@ -1,0 +1,94 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+ARROW                   CURSOR  DISCARDABLE     "cursor1.cur"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+ICON                    ICON    DISCARDABLE     "塔1.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_FOREWORD            "序言\n\n相传在远古时期\n人类、精灵与妖魔共存\n贪婪的妖魔们想要奴役人类与精灵\n然而，勇敢的人类怎会屈服\n他们组建了一支又一支的敢死队\n朝着魔塔进发\n然而，没有一个人回来\n\n终于，有一天，魔王带领妖魔们\n来到了村子里\n掳走了一个人类女孩\n\n另一个男孩从此开始哭泣不止\n因为被掳走的是他的女友\n他躲在角落眼睁睁地看着\n看着女友被魔王掳走\n他害怕魔王\n一动不敢动地藏在那里\n\n几个月过去了\n男孩一直在后悔与难过中生活\n\n\n终于，他拿起了自己剑\n\n向着魔塔进发了！！！"
+    IDS_TRUEHEART           "送你一首歌吧\n据说唱的是一个男孩失恋了\n他要向她解释\n很像现在的我\n哼哼^_^\n\n"
+    IDS_SONG1               "Take me to your heart\n歌手：Michael Learns to Rock\n\nhiding from the rain and snow 藏身于雨雪之中\ntrying to forget but i won't let go 努力忘记,但我怎能就这样离去\nlooking at a crowded street 看着熙熙攘攘的街道\nlistening to my own heart beat 却只能听见自己的心跳\nso many people 这么多的人\nall around the world 在世界上\ntell me where do i find 请告诉我在哪里可以找到\nsomeone like you girl 像你一样的女孩\ntake me to your heart 将我留存心间\ntake me to your soul 与你的灵魂相伴\ngive me your hand before i'm old 给我你的手,在我老去之前\nshow me what love is 问情为何物\n- haven't got a clue 在我们彼此离开前\nshow me that wonders can be true 问奇迹上演\nthey say nothing lasts forever 他们说没有什么可以天长地久\nwe're only here today 我们也能此时相守\nlove is now or never 现在或者永不回头\nbring me far away 请带我一起远走\ntake me to your heart 请爱我吧\ntake me to your soul 与你的灵魂相伴\ngive me your hand and hold me 给我你的手拥我入怀\nshow me what love is 问情为何物\n- be my guiding star 让星辰照亮我路\n"
+    IDS_SONG2               "it's easy take me to your heart 其实爱我真的很简单\n\n\n\n\n\n\n\n我们之间如你所说\n\n没有什么\n\n那么\n\n请你抛开所有重新去看我\n\n我其实是一个很在乎感情的人\n\n几年前\n\n也许是\n\n你无心的一句\n\n我喜欢你\n\n让我追随着你\n\n到现在\n\n爱决不是为了你可以不顾其他任何人\n\n爱也不是浪费青春年华\n\n\n爱是用心去感动另一个人。。。"
+    IDS_GAMEEND             "游戏结束\n\n\n作者：方寸\n邮箱：renjie.010@163.com\n测试：众多网友\n\n\n为追爱而作\n"
+END
+
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
